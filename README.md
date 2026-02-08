@@ -1,3 +1,4 @@
+
 # SimD
 This is the official implementation of the paper "Similarity Distance-Based Label Assignment for Tiny Object Detection".
 ## Introduction
@@ -66,3 +67,16 @@ Links of other datasets:
 - AI-TODv2 (22.95 GB): [Google Drive](https://drive.google.com/drive/folders/1Er14atDO1cBraBD4DSFODZV1x7NHO_PY?usp=sharing)
 - SODA-D (24.95GB): [Google Drive](https://nwpueducn-my.sharepoint.com/:f:/g/personal/gcheng_nwpu_edu_cn/EhXUvvPZLRRLnmo0QRmd4YUBvDLGMixS11_Sr6trwJtTrQ?e=PellK6)
 
+## Citation
+
+Welcome to cite this project in your research.
+
+```
+@INPROCEEDINGS{10801448,
+  title = {Similarity Distance-Based Label Assignment for Tiny Object Detection},
+  author = {Shi, Shuohao and Fang, Qiang and Xu, Xin and Zhao, Tong},
+  booktitle = {2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year = {2024},
+  pages = {13711-13718}
+}
+```
