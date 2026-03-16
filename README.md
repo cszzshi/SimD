@@ -1,4 +1,3 @@
-
 # SimD
 This is the official implementation of the paper "Similarity Distance-Based Label Assignment for Tiny Object Detection".
 ## Introduction
